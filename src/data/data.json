@@ -1,0 +1,185 @@
+{
+  "categorias": [
+    {
+      "titulo": "Lofi",
+      "link": "#",
+      "cor": "#6BD1FF",
+      "link_extra": {
+        "text": "Lofi Songs",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "LoFi Hip Hop",
+          "url": "https://www.youtube.com/watch?v=5qap5aO4i9A"
+        },
+        {
+          "titulo": "LoFi Radio",
+          "url": "https://www.youtube.com/watch?v=DWcJFNfaw9c"
+        },
+        {
+          "titulo": "Japanese Lofi",
+          "url": "https://www.youtube.com/watch?v=jrTMMG0zJyI&t=152s"
+        },
+        {
+          "titulo": "Brazil Lofi",
+          "url": "https://www.youtube.com/watch?v=ZhstyJSNKME"
+        },
+        {
+          "titulo": "Lofi Mix",
+          "url": "https://www.youtube.com/watch?v=NxSDNogkKX0"
+        },
+        {
+          "titulo": "Jazz Town",
+          "url": "https://www.youtube.com/watch?v=u4ENF5OCtkY"
+        },
+        {
+          "titulo": "Rainy Days",
+          "url": "https://www.youtube.com/watch?v=ivNIpLdzh7M"
+        },
+        {
+          "titulo": "ChillVibes",
+          "url": "https://www.youtube.com/watch?v=oJnF5VxTO5g"
+        }        
+      ]
+    },
+    {
+      "titulo": "Chillhop",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "Chillhop Songs",
+        "url": "https://www.youtube.com/watch?v=XAj5keXxE1Y"
+      },
+      "videos": [
+        {
+          "titulo": "Instrumental Chill Beats",
+          "url": "ttps://www.youtube.com/watch?v=XAj5keXxE1Y"
+        },
+        {
+          "titulo": "Dryhope",
+          "url": "https://www.youtube.com/watch?v=QEWV6fiYaDU"
+        },
+        {
+          "titulo": "Chillhope",
+          "url": "https://www.youtube.com/watch?v=5hI2-2Ws4Wg"
+        },
+        {
+          "titulo": "Chillhope",
+          "url": "https://www.youtube.com/watch?v=fTjm59DFifg"
+        }, 
+        {
+          "titulo": "Chillhope",
+          "url": "https://www.youtube.com/watch?v=_y8SwijcxbM"
+        }
+      ]
+    },
+    {
+      "titulo": "Boris Brejcha",
+      "cor": "#9cd33b",
+      "link_extra": {
+        "text": "SETS",
+        "url": "https://www.youtube.com/watch?v=vqz8c4ZP3Wg"
+      },
+      "videos": [
+        {
+          "titulo": "Set 1",
+          "url": "https://www.youtube.com/watch?v=vqz8c4ZP3Wg"
+        },
+        {
+          "titulo": "Set 2",
+          "url": "https://www.youtube.com/watch?v=buCD-_1UPn4"
+        },
+        {
+          "titulo": "Set 3",
+          "url": "https://www.youtube.com/watch?v=TRfJaiuuI6M"
+        },
+        {
+          "titulo": "Set 4",
+          "url": "https://www.youtube.com/watch?v=4Rc-NGWEHdU"
+        }
+      ]
+    },
+    {
+      "titulo": "Slack",
+      "cor": "orange",
+      "videos": [
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=F1DJFNSideQ"
+        },
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=TNQo5Snvvhk"
+        },
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=WJUInYShJYo"
+        },
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=QuKTH18OBII"
+        }
+      ]
+    },
+    {
+      "titulo": "Slack",
+      "cor": "red",
+      "link_extra": {
+        "text": "",
+        "url": "#"
+      },
+      "videos": [
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=Yam5uK6e-bQ"
+        },
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=0qanF-91aJo"
+        },
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=5RisBAkC0x8"
+        },
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=wow6lhHp1V4"
+        },
+        {
+          "titulo": "Songs",
+          "url": "https://www.youtube.com/watch?v=G1DAl6qIqMY"
+        }
+      ]
+    },
+    {
+      "titulo": "Slack",
+      "cor": "#6b5be2",
+      "link_extra": {
+        "text": "",
+        "url": "https://www.youtube.com/watch?v=aGSKrC7dGcY"
+      },
+      "videos": [
+        {
+          "titulo": "Old 1",
+          "url": "https://www.youtube.com/watch?v=aGSKrC7dGcY"
+        },
+        {
+          "titulo": "Old 2",
+          "url": "https://www.youtube.com/watch?v=JmxAuhBMbIw"
+        },
+        {
+          "titulo": "Old 3",
+          "url": "https://www.youtube.com/watch?v=EhFGxr6dm58"
+        },
+        {
+          "titulo": "Old 4",
+          "url": "https://www.youtube.com/watch?v=AUxOF7eLA_0"
+        },
+        {
+          "titulo": "Old 5",
+          "url": "https://www.youtube.com/watch?v=8_OMjfeVx_w"
+        }
+      ]
+    }
+  ]
+}
